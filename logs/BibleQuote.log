@@ -1,0 +1,466 @@
+[2013-01-23 09:48:24.472] [DEBUG] BibleQuote - Request: [object Object]
+[2013-01-23 14:27:45.390] [DEBUG] BibleQuote - Request: esv quote=john3:16 undefined
+[2013-01-23 14:28:51.368] [DEBUG] BibleQuote - Request: esv john3:16
+[2013-01-23 14:35:30.835] [DEBUG] BibleQuote - Request: esv john3:16
+[2013-01-23 14:35:56.129] [DEBUG] BibleQuote - Request: esv john3:16
+[2013-01-23 14:45:27.394] [DEBUG] BibleQuote - Request: esv john3:16
+[2013-01-23 14:47:33.397] [DEBUG] BibleQuote - Request: esv undefined
+[2013-01-23 15:45:23.301] [INFO] BibleQuote - Found passage for John 3:16 = ERROR: No key was submitted. Please use your access key, the testing key 'TEST', or the key 'IP' for IP-based access
+[2013-01-24 17:02:29.900] [INFO] BibleQuote - Looking for passage for John 3:16
+[2013-01-24 17:03:57.076] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:05:46.267] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:05:46.270] [INFO] BibleQuote - Service is at undefined
+[2013-01-24 17:07:46.747] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:07:47.086] [INFO] BibleQuote - End received: <html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/0.7.62</center>
+</body>
+</html>
+
+[2013-01-24 17:07:47.087] [INFO] BibleQuote - Found passage for John 3:16 = <html> <head><title>400 Bad Request</title></head> <body bgcolor="white"> <center><h1>400 Bad Request</h1></center> <hr><center>nginx/0.7.62</center> </body> </html>
+[2013-01-24 17:18:19.477] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:18:56.351] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:18:56.353] [INFO] BibleQuote - options path is: /v2/rest/passageQuery&key=3b06c58d0d40201b&passage=John316&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-24 17:18:56.563] [INFO] BibleQuote - End received: <html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/0.7.62</center>
+</body>
+</html>
+
+[2013-01-24 17:18:56.563] [INFO] BibleQuote - Found passage for John 3:16 = <html> <head><title>400 Bad Request</title></head> <body bgcolor="white"> <center><h1>400 Bad Request</h1></center> <hr><center>nginx/0.7.62</center> </body> </html>
+[2013-01-24 17:33:04.144] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:33:04.147] [INFO] BibleQuote - options path is: /v2/rest/passageQuery&key=TEST&passage=John316&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-24 17:33:04.528] [INFO] BibleQuote - End received: <html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/0.7.62</center>
+</body>
+</html>
+
+[2013-01-24 17:33:04.529] [INFO] BibleQuote - Found passage for John 3:16 = <html> <head><title>400 Bad Request</title></head> <body bgcolor="white"> <center><h1>400 Bad Request</h1></center> <hr><center>nginx/0.7.62</center> </body> </html>
+[2013-01-24 17:34:16.994] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:34:16.996] [INFO] BibleQuote - options path is: /v2/rest/passageQuery&key=TEST&passage=John3:16&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-24 17:34:17.377] [INFO] BibleQuote - End received: <html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/0.7.62</center>
+</body>
+</html>
+
+[2013-01-24 17:34:17.377] [INFO] BibleQuote - Found passage for John 3:16 = <html> <head><title>400 Bad Request</title></head> <body bgcolor="white"> <center><h1>400 Bad Request</h1></center> <hr><center>nginx/0.7.62</center> </body> </html>
+[2013-01-24 17:36:42.143] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:36:42.146] [INFO] BibleQuote - options path is: /v2/rest/passageQuery&key=TEST&passage=John+3:16&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-24 17:36:42.353] [INFO] BibleQuote - End received: <html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/0.7.62</center>
+</body>
+</html>
+
+[2013-01-24 17:36:42.354] [INFO] BibleQuote - Found passage for John 3:16 = <html> <head><title>400 Bad Request</title></head> <body bgcolor="white"> <center><h1>400 Bad Request</h1></center> <hr><center>nginx/0.7.62</center> </body> </html>
+[2013-01-24 17:39:08.449] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:39:08.452] [INFO] BibleQuote - options path is: /v2/rest/passageQuery?key=TEST&passage=John+3:16&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-24 17:39:08.757] [INFO] BibleQuote - End received: <html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/0.7.62</center>
+</body>
+</html>
+
+[2013-01-24 17:39:08.758] [INFO] BibleQuote - Found passage for John 3:16 = <html> <head><title>400 Bad Request</title></head> <body bgcolor="white"> <center><h1>400 Bad Request</h1></center> <hr><center>nginx/0.7.62</center> </body> </html>
+[2013-01-24 17:42:29.860] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:42:29.863] [INFO] BibleQuote - Options host is: http://www.esvapi.org
+[2013-01-24 17:42:29.863] [INFO] BibleQuote - Options path is: /v2/rest/passageQuery?key=TEST&passage=John+3:16
+[2013-01-24 17:42:30.192] [INFO] BibleQuote - End received: <html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/0.7.62</center>
+</body>
+</html>
+
+[2013-01-24 17:44:02.153] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:44:02.154] [INFO] BibleQuote - Options host is: http://www.esvapi.org
+[2013-01-24 17:44:02.154] [INFO] BibleQuote - Options path is: /v2/rest/passageQuery?key=TEST&passage=John+3:16
+[2013-01-24 17:44:02.377] [INFO] BibleQuote - End received: <html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/0.7.62</center>
+</body>
+</html>
+
+[2013-01-24 17:44:23.799] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:44:23.801] [INFO] BibleQuote - Options host is: http://www.esvapi.org
+[2013-01-24 17:44:23.802] [INFO] BibleQuote - Options path is: /v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John+3:16&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-24 17:44:24.069] [INFO] BibleQuote - End received: <html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/0.7.62</center>
+</body>
+</html>
+
+[2013-01-24 17:44:30.653] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:44:30.653] [INFO] BibleQuote - Options host is: http://www.esvapi.org
+[2013-01-24 17:44:30.653] [INFO] BibleQuote - Options path is: /v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John+3:16&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-24 17:44:30.871] [INFO] BibleQuote - End received: <html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/0.7.62</center>
+</body>
+</html>
+
+[2013-01-24 17:48:42.252] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:48:42.255] [INFO] BibleQuote - Options host is: undefined
+[2013-01-24 17:48:42.255] [INFO] BibleQuote - Options path is: /v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John+3:16&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-24 17:48:42.505] [INFO] BibleQuote - End received: <html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/0.7.62</center>
+</body>
+</html>
+
+[2013-01-24 17:50:54.310] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:51:30.145] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 17:51:30.147] [INFO] BibleQuote - Path is: http://www.esvapi.org/v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John+3:16&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-24 17:51:30.846] [INFO] BibleQuote - End received:    "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. (ESV)
+[2013-01-24 17:52:23.697] [INFO] BibleQuote - Looking for passage in asv: John 3:16
+[2013-01-24 17:52:23.697] [INFO] BibleQuote - Path is: http://api.biblia.com/v1/bible/content/ASV.txt.js?key=3559a4fd6f30ea12fec006e5a6c061f8&passage=John+3:16
+[2013-01-24 17:52:23.863] [INFO] BibleQuote - End received: {"text":"For God so loved the world, that he gave his only begotten Son, that whosoever believeth on him should not perish, but have eternal life."}
+[2013-01-24 17:55:16.854] [INFO] BibleQuote - Looking for passage in asv: John 3:16
+[2013-01-24 17:55:16.856] [INFO] BibleQuote - Path is: http://api.biblia.com/v1/bible/content/ASV.txt.js?key=3559a4fd6f30ea12fec006e5a6c061f8&passage=John+3:16
+[2013-01-24 17:55:16.981] [INFO] BibleQuote - End received
+[2013-01-24 17:55:16.982] [INFO] BibleQuote - Processed Passage >For God so loved the world, that he gave his only begotten Son, that whosoever believeth on him should not perish, but have eternal life.<
+[2013-01-24 17:57:41.502] [INFO] BibleQuote - Looking for passage in net: John 3:16
+[2013-01-24 17:57:41.503] [INFO] BibleQuote - Path is: http://labs.bible.org/api/??passage=John+3:16&formatting=plain&type=text
+[2013-01-24 17:57:42.077] [INFO] BibleQuote - End received
+[2013-01-24 17:57:42.078] [INFO] BibleQuote - Processed Passage >teaching them to obey everything I have commanded you. And remember, I am with you always, to the end of the age.”<
+[2013-01-24 18:00:37.971] [INFO] BibleQuote - Looking for passage in net: John 3:16
+[2013-01-24 18:00:37.974] [INFO] BibleQuote - Path is: http://labs.bible.org/api/?passage=John+3:16&formatting=plain&type=text
+[2013-01-24 18:00:38.128] [INFO] BibleQuote - End received
+[2013-01-24 18:00:38.128] [INFO] BibleQuote - Processed Passage >For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.<
+[2013-01-24 23:32:39.468] [INFO] BibleQuote - Looking for passage in net: John 3:16
+[2013-01-24 23:32:39.470] [INFO] BibleQuote - Path is: http://labs.bible.org/api/?passage=John+3:16&formatting=plain&type=text
+[2013-01-24 23:33:39.604] [INFO] BibleQuote - Looking for passage in gnt: John 3:16
+[2013-01-24 23:33:39.604] [INFO] BibleQuote - Path is: https://bibles.org/GNT/passages.js?q[]=John+3%3A16
+[2013-01-24 23:35:08.648] [INFO] BibleQuote - Looking for passage in gnt: John 3:16
+[2013-01-24 23:35:08.651] [INFO] BibleQuote - Host is: https://bibles.org Path is: /GNT/passages.js?q[]=John+3%3A16
+[2013-01-24 23:38:57.513] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 23:38:57.515] [INFO] BibleQuote - Host is: http://www.esvapi.org Path is: /v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John+3:16&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-24 23:38:57.862] [INFO] BibleQuote - End received
+[2013-01-24 23:38:57.863] [INFO] BibleQuote - Processed Passage ><html> <head><title>400 Bad Request</title></head> <body bgcolor="white"> <center><h1>400 Bad Request</h1></center> <hr><center>nginx/0.7.62</center> </body> </html><
+[2013-01-24 23:39:23.892] [INFO] BibleQuote - Looking for passage in gnt: John 3:16
+[2013-01-24 23:39:23.894] [INFO] BibleQuote - Host is: https://bibles.org Path is: /GNT/passages.js?q[]=John+3%3A16
+[2013-01-24 23:51:48.271] [INFO] BibleQuote - Looking for passage in gnt: John 3:16
+[2013-01-24 23:52:23.996] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 23:53:00.859] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-24 23:53:00.862] [INFO] BibleQuote - Host is: http://www.esvapi.org Path is: http://www.esvapi.org/v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John+3:16&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-24 23:53:01.184] [INFO] BibleQuote - End received
+[2013-01-24 23:53:01.184] [INFO] BibleQuote - Processed Passage >"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.<
+[2013-01-24 23:53:19.833] [INFO] BibleQuote - Looking for passage in gnt: John 3:16
+[2013-01-24 23:53:19.833] [INFO] BibleQuote - Host is: https://%auth@bibles.org Path is: https://uuzkgv7VOFPg03SgRw3JaKfWQh8C2kynUlO1XLMm:X@bibles.org/GNT/passages.js?q[]=John+3%3A16
+[2013-01-24 23:53:21.309] [INFO] BibleQuote - End received
+[2013-01-24 23:53:21.310] [INFO] BibleQuote - Processed Passage >For God loved the world so much that he gave his only Son, so that everyone who believes in him may not die but have eternal life. <
+[2013-01-25 11:29:55.616] [INFO] BibleQuote - Looking for passage in blort: John 3:16
+[2013-01-25 14:13:06.320] [INFO] BibleQuote - Looking for passage in blort: John 3:16
+[2013-01-25 14:14:36.546] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-25 14:15:31.720] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-25 14:15:31.722] [INFO] BibleQuote -  Path is: http://www.esvapi.org/v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John%203%3A16&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-25 14:15:32.224] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:15:32.224] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:15:32.225] [INFO] BibleQuote - End received
+[2013-01-25 14:15:32.225] [INFO] BibleQuote - Processed Passage >"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.<
+[2013-01-25 14:35:35.990] [INFO] BibleQuote - Looking for passage in esv: John 3:16-18
+[2013-01-25 14:35:35.990] [INFO] BibleQuote -  Path is: http://www.esvapi.org/v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John%203%3A16-18&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-25 14:35:36.352] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:35:36.352] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:35:36.353] [INFO] BibleQuote - End received
+[2013-01-25 14:35:36.353] [INFO] BibleQuote - Processed Passage >"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God.<
+[2013-01-25 14:35:49.613] [INFO] BibleQuote - Looking for passage in esv: John 3:16-18
+[2013-01-25 14:35:49.614] [INFO] BibleQuote -  Path is: http://www.esvapi.org/v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John%203%3A16-18&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-25 14:35:49.824] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:35:49.824] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:35:49.824] [INFO] BibleQuote - End received
+[2013-01-25 14:35:49.824] [INFO] BibleQuote - Processed Passage >"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God.<
+[2013-01-25 14:35:53.940] [INFO] BibleQuote - Looking for passage in esv: John 3:16-25
+[2013-01-25 14:35:53.941] [INFO] BibleQuote -  Path is: http://www.esvapi.org/v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John%203%3A16-25&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-25 14:35:54.197] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:35:54.198] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:35:54.208] [INFO] BibleQuote - End received
+[2013-01-25 14:35:54.209] [INFO] BibleQuote - Processed Passage >"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God. And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil. For everyone who does wicked things hates the light and does not come to the light, lest his works should be exposed. But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God." After this Jesus and his disciples went into the Judean countryside, and he remained there with them and was baptizing. John also was baptizing at Aenon near Salim, because water was plentiful there, and people were coming and being baptized (for John had not yet been put in prison). Now a discussion arose between some of John's disciples and a Jew over purification.<
+[2013-01-25 14:36:01.201] [INFO] BibleQuote - Looking for passage in net: John 3:16-25
+[2013-01-25 14:36:01.201] [INFO] BibleQuote -  Path is: http://labs.bible.org/api/?passage=John%203%3A16-25&formatting=plain&type=text
+[2013-01-25 14:36:03.873] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:36:03.874] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:36:03.883] [INFO] BibleQuote - End received
+[2013-01-25 14:36:03.884] [INFO] BibleQuote - Processed Passage >Now a dispute came about between some of John’s disciples and a certain Jew concerning ceremonial washing.<
+[2013-01-25 14:36:13.790] [INFO] BibleQuote - Looking for passage in net: John 3:16
+[2013-01-25 14:36:13.790] [INFO] BibleQuote -  Path is: http://labs.bible.org/api/?passage=John%203%3A16&formatting=plain&type=text
+[2013-01-25 14:36:13.922] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:36:13.922] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:36:13.922] [INFO] BibleQuote - End received
+[2013-01-25 14:36:13.923] [INFO] BibleQuote - Processed Passage >For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.<
+[2013-01-25 14:36:20.361] [INFO] BibleQuote - Looking for passage in net: John 3:16-17
+[2013-01-25 14:36:20.361] [INFO] BibleQuote -  Path is: http://labs.bible.org/api/?passage=John%203%3A16-17&formatting=plain&type=text
+[2013-01-25 14:36:20.495] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:36:20.496] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:36:20.496] [INFO] BibleQuote - End received
+[2013-01-25 14:36:20.496] [INFO] BibleQuote - Processed Passage >For God did not send his Son into the world to condemn the world, but that the world should be saved through him.<
+[2013-01-25 14:36:26.651] [INFO] BibleQuote - Looking for passage in net: John 3:16-18
+[2013-01-25 14:36:26.651] [INFO] BibleQuote -  Path is: http://labs.bible.org/api/?passage=John%203%3A16-18&formatting=plain&type=text
+[2013-01-25 14:36:26.904] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:36:26.904] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:36:26.904] [INFO] BibleQuote - End received
+[2013-01-25 14:36:26.904] [INFO] BibleQuote - Processed Passage >The one who believes in him is not condemned. The one who does not believe has been condemned already, because he has not believed in the name of the one and only Son of God.<
+[2013-01-25 14:36:33.370] [INFO] BibleQuote - Looking for passage in net: John 3:16-19
+[2013-01-25 14:36:33.370] [INFO] BibleQuote -  Path is: http://labs.bible.org/api/?passage=John%203%3A16-19&formatting=plain&type=text
+[2013-01-25 14:36:33.516] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:36:33.517] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:36:33.517] [INFO] BibleQuote - End received
+[2013-01-25 14:36:33.517] [INFO] BibleQuote - Processed Passage >Now this is the basis for judging: that the light has come into the world and people loved the darkness rather than the light, because their deeds were evil.<
+[2013-01-25 14:36:56.210] [INFO] BibleQuote - Looking for passage in asv: John 3:16-19
+[2013-01-25 14:36:56.210] [INFO] BibleQuote -  Path is: http://api.biblia.com/v1/bible/content/ASV.txt.js?key=3559a4fd6f30ea12fec006e5a6c061f8&passage=John%203%3A16-19
+[2013-01-25 14:36:56.417] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:36:56.417] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:36:56.417] [INFO] BibleQuote - End received
+[2013-01-25 14:36:56.418] [INFO] BibleQuote - Processed Passage >For God so loved the world, that he gave his only begotten Son, that whosoever believeth on him should not perish, but have eternal life. For God sent not the Son into the world to judge the world; but that the world should be saved through him. He that believeth on him is not judged: he that believeth not hath been judged already, because he hath not believed on the name of the only begotten Son of God. And this is the judgment, that the light is come into the world, and men loved the darkness rather than the light; for their works were evil.<
+[2013-01-25 14:37:32.598] [INFO] BibleQuote - Looking for passage in amp: John 3:16-19
+[2013-01-25 14:37:32.601] [INFO] BibleQuote -  Path is: https://uuzkgv7VOFPg03SgRw3JaKfWQh8C2kynUlO1XLMm:X@bibles.org/AMP/passages.js?q[]=John%203%3A16-19
+[2013-01-25 14:37:33.686] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:37:33.686] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:37:33.687] [INFO] BibleQuote - End received
+[2013-01-25 14:37:33.687] [INFO] BibleQuote - Processed Passage >For God so greatly loved and dearly prized the world that He [even] gave up His only begotten (unique) Son, so that whoever believes in (trusts in, clings to, relies on) Him shall not perish (come to destruction, be lost) but have eternal (everlasting) life. For God did not send the Son into the world in order to judge (to reject, to condemn, to pass sentence on) the world, but that the world might find salvation and be made safe and sound through Him. He who believes in Him [who clings to, trusts in, relies on Him] is not judged [he who trusts in Him never comes up for judgment; for him there is no rejection, no condemnation--he incurs no damnation]; but he who does not believe (cleave to, rely on, trust in Him) is judged already [he has already been convicted and has already received his sentence] because he has not believed in and trusted in the name of the only begotten Son of God. [He is condemned for refusing to let his trust rest in Christ's name.] <
+[2013-01-25 14:37:48.786] [INFO] BibleQuote - Looking for passage in cev: John 3:16-19
+[2013-01-25 14:37:48.787] [INFO] BibleQuote -  Path is: https://uuzkgv7VOFPg03SgRw3JaKfWQh8C2kynUlO1XLMm:X@bibles.org/CEV/passages.js?q[]=John%203%3A16-19
+[2013-01-25 14:37:49.613] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:37:49.613] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:37:49.613] [INFO] BibleQuote - End received
+[2013-01-25 14:37:49.613] [INFO] BibleQuote - Processed Passage ><ul><li> God loved the people of this world so much that he gave his only Son, so that everyone who has faith in him will have eternal life and never really die.</li></ul> <ul><li> God did not send his Son into the world to condemn its people. He sent him to save them!</li></ul> <ul><li> No one who has faith in God's Son will be condemned. But everyone who doesn't have faith in him has already been condemned for not having faith in God's only Son.</li></ul><
+[2013-01-25 14:39:05.889] [INFO] BibleQuote - Looking for passage in cev: John 3:16-19
+[2013-01-25 14:39:05.891] [INFO] BibleQuote -  Path is: https://uuzkgv7VOFPg03SgRw3JaKfWQh8C2kynUlO1XLMm:X@bibles.org/CEV/passages.js?q[]=John%203%3A16-19
+[2013-01-25 14:39:06.823] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:39:06.823] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:39:06.824] [INFO] BibleQuote - End received
+[2013-01-25 14:39:06.824] [INFO] BibleQuote - Processed Passage >God loved the people of this world so much that he gave his only Son, so that everyone who has faith in him will have eternal life and never really die. God did not send his Son into the world to condemn its people. He sent him to save them! No one who has faith in God's Son will be condemned. But everyone who doesn't have faith in him has already been condemned for not having faith in God's only Son. <
+[2013-01-25 14:39:43.620] [INFO] BibleQuote - Looking for passage in darby: John 3:16-19
+[2013-01-25 14:39:43.621] [INFO] BibleQuote -  Path is: http://api.biblia.com/v1/bible/content/DARBY.txt.js?key=3559a4fd6f30ea12fec006e5a6c061f8&passage=John%203%3A16-19
+[2013-01-25 14:39:43.753] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:39:43.754] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:39:43.754] [INFO] BibleQuote - End received
+[2013-01-25 14:39:43.754] [INFO] BibleQuote - Processed Passage >For God so loved the world, that he gave his only-begotten Son, that whosoever believes on him may not perish, but have life eternal. For God has not sent his Son into the world that he may judge the world, but that the world may be saved through him. He that believes on him is not judged: but he that believes not has been already judged, because he has not believed on the name of the only-begotten Son of God. And this is the judgment, that light is come into the world, and men have loved darkness rather than light; for their works were evil.<
+[2013-01-25 14:39:58.682] [INFO] BibleQuote - Looking for passage in emphbbl: John 3:16-19
+[2013-01-25 14:39:58.683] [INFO] BibleQuote -  Path is: http://api.biblia.com/v1/bible/content/EMPHBBL.txt.js?key=3559a4fd6f30ea12fec006e5a6c061f8&passage=John%203%3A16-19
+[2013-01-25 14:39:58.933] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:39:58.934] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:39:58.934] [INFO] BibleQuote - End received
+[2013-01-25 14:39:58.934] [INFO] BibleQuote - Processed Passage >For God so loved the world､ That his Only Begotten Son he gave,— That whosoever believeth on him Might not perish､ But have life age-abiding. For God sent not his Son into the world､ That he might judge the world, But that the world might be saved through him. He that believeth on him is not to be judged: He that believeth not already hath been judged,— Because he hath not believed on the name of the Only Begotten Son of God. And this is the judgment: That the light hath come into the world,— And men loved､ rather the darkness than the light, For wicked were their works.<
+[2013-01-25 14:40:28.787] [INFO] BibleQuote - Looking for passage in esv: John 3:16-19
+[2013-01-25 14:40:28.787] [INFO] BibleQuote -  Path is: http://www.esvapi.org/v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John%203%3A16-19&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-25 14:40:29.006] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:40:29.006] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:40:29.006] [INFO] BibleQuote - End received
+[2013-01-25 14:40:29.006] [INFO] BibleQuote - Processed Passage >"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God. And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil.<
+[2013-01-25 14:40:38.676] [INFO] BibleQuote - Looking for passage in gnt: John 3:16-19
+[2013-01-25 14:40:38.676] [INFO] BibleQuote -  Path is: https://uuzkgv7VOFPg03SgRw3JaKfWQh8C2kynUlO1XLMm:X@bibles.org/GNT/passages.js?q[]=John%203%3A16-19
+[2013-01-25 14:40:39.549] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:40:39.549] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:40:39.550] [INFO] BibleQuote - End received
+[2013-01-25 14:40:39.550] [INFO] BibleQuote - Processed Passage >For God loved the world so much that he gave his only Son, so that everyone who believes in him may not die but have eternal life. For God did not send his Son into the world to be its judge, but to be its savior. Those who believe in the Son are not judged; but those who do not believe have already been judged, because they have not believed in God's only Son. <
+[2013-01-25 14:40:48.915] [INFO] BibleQuote - Looking for passage in kjv: John 3:16-19
+[2013-01-25 14:40:48.915] [INFO] BibleQuote -  Path is: http://api.biblia.com/v1/bible/content/KJV.txt.js?key=3559a4fd6f30ea12fec006e5a6c061f8&passage=John%203%3A16-19
+[2013-01-25 14:40:49.033] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:40:49.033] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:40:49.033] [INFO] BibleQuote - End received
+[2013-01-25 14:40:49.033] [INFO] BibleQuote - Processed Passage >For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. For God sent not his Son into the world to condemn the world; but that the world through him might be saved. He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God. And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.<
+[2013-01-25 14:40:56.699] [INFO] BibleQuote - Looking for passage in net: John 3:16-19
+[2013-01-25 14:40:56.699] [INFO] BibleQuote -  Path is: http://labs.bible.org/api/?passage=John%203%3A16-19&formatting=plain&type=text
+[2013-01-25 14:40:56.840] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 14:40:56.840] [INFO] BibleQuote - Headers: 
+[2013-01-25 14:40:56.840] [INFO] BibleQuote - End received
+[2013-01-25 14:40:56.840] [INFO] BibleQuote - Processed Passage >Now this is the basis for judging: that the light has come into the world and people loved the darkness rather than the light, because their deeds were evil.<
+[2013-01-25 16:19:55.802] [INFO] BibleQuote - Looking for passage in net: John 3:16-19
+[2013-01-25 16:19:55.813] [INFO] BibleQuote -  Path is: http://labs.bible.org/api/?passage=John%203%3A16-19&formatting=plain&type=text
+[2013-01-25 16:19:56.405] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 16:19:56.406] [INFO] BibleQuote - Headers: 
+[2013-01-25 16:19:56.406] [INFO] BibleQuote - End received:  <b>3:16</b> For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. <b>17</b> For God did not send his Son into the world to condemn the world, but that the world should be saved through him. <b>18</b> The one who believes in him is not condemned. The one who does not believe has been condemned already, because he has not believed in the name of the one and only Son of God. <b>19</b> Now this is the basis for judging: that the light has come into the world and people loved the darkness rather than the light, because their deeds were evil.
+[2013-01-25 16:19:56.406] [INFO] BibleQuote - Processed Passage >Now this is the basis for judging: that the light has come into the world and people loved the darkness rather than the light, because their deeds were evil.<
+[2013-01-25 16:19:58.392] [INFO] BibleQuote - Looking for passage in net: John 3:16-19
+[2013-01-25 16:19:58.392] [INFO] BibleQuote -  Path is: http://labs.bible.org/api/?passage=John%203%3A16-19&formatting=plain&type=text
+[2013-01-25 16:19:58.534] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 16:19:58.534] [INFO] BibleQuote - Headers: 
+[2013-01-25 16:19:58.534] [INFO] BibleQuote - End received:  <b>3:16</b> For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. <b>17</b> For God did not send his Son into the world to condemn the world, but that the world should be saved through him. <b>18</b> The one who believes in him is not condemned. The one who does not believe has been condemned already, because he has not believed in the name of the one and only Son of God. <b>19</b> Now this is the basis for judging: that the light has come into the world and people loved the darkness rather than the light, because their deeds were evil.
+[2013-01-25 16:19:58.534] [INFO] BibleQuote - Processed Passage >Now this is the basis for judging: that the light has come into the world and people loved the darkness rather than the light, because their deeds were evil.<
+[2013-01-25 16:21:59.324] [INFO] BibleQuote - Looking for passage in net: John 3:16-19
+[2013-01-25 16:21:59.324] [INFO] BibleQuote -  Path is: http://labs.bible.org/api/?passage=John%203%3A16-19&formatting=plain&type=text
+[2013-01-25 16:21:59.459] [INFO] BibleQuote - StatusCode: 
+[2013-01-25 16:21:59.460] [INFO] BibleQuote - Headers: 
+[2013-01-25 16:21:59.460] [INFO] BibleQuote - End received:  <b>3:16</b> For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life. <b>17</b> For God did not send his Son into the world to condemn the world, but that the world should be saved through him. <b>18</b> The one who believes in him is not condemned. The one who does not believe has been condemned already, because he has not believed in the name of the one and only Son of God. <b>19</b> Now this is the basis for judging: that the light has come into the world and people loved the darkness rather than the light, because their deeds were evil.
+[2013-01-25 16:21:59.460] [INFO] BibleQuote - Processed Passage >Now this is the basis for judging: that the light has come into the world and people loved the darkness rather than the light, because their deeds were evil.<
+[2013-01-25 18:46:49.063] [INFO] BibleQuote - <p class="paragraph_style_4" style="margin-left: 40px;">Key: asv</p><p class="paragraph_style_4" style="margin-left: 40px;">Title: American Standard Version</p><p class="paragraph_style_4" style="margin-left: 40px;">Copyright: Public Domain</p><br/><p class="paragraph_style_4" style="margin-left: 40px;">Key: amp</p><p class="paragraph_style_4" style="margin-left: 40px;">Title: Amplified Bible</p><p class="paragraph_style_4" style="margin-left: 40px;">Copyright: All rights reserved. For Permission To Quote information visit http://www.lockman.org/</p><br/><p class="paragraph_style_4" style="margin-left: 40px;">Key: cev</p><p class="paragraph_style_4" style="margin-left: 40px;">Title: Contemporary English Version</p><p class="paragraph_style_4" style="margin-left: 40px;">Copyright: Copyright 2006, American Bible Society</p><br/><p class="paragraph_style_4" style="margin-left: 40px;">Key: darby</p><p class="paragraph_style_4" style="margin-left: 40px;">Title: 1890 Darby Bible</p><p class="paragraph_style_4" style="margin-left: 40px;">Copyright: Public Domain</p><br/><p class="paragraph_style_4" style="margin-left: 40px;">Key: emphbbl</p><p class="paragraph_style_4" style="margin-left: 40px;">Title: The Emphasized Bible</p><p class="paragraph_style_4" style="margin-left: 40px;">Copyright: Public Domain</p><br/><p class="paragraph_style_4" style="margin-left: 40px;">Key: esv</p><p class="paragraph_style_4" style="margin-left: 40px;">Title: English Standard Version</p><p class="paragraph_style_4" style="margin-left: 40px;">Copyright: Copyright 2001 by Crossway, a publishing ministry of Good News Publishers.</p><br/><p class="paragraph_style_4" style="margin-left: 40px;">Key: gnt</p><p class="paragraph_style_4" style="margin-left: 40px;">Title: Good News Translation</p><p class="paragraph_style_4" style="margin-left: 40px;">Copyright: Copyright 1992 by American Bible Society. Used by Permission.</p><br/><p class="paragraph_style_4" style="margin-left: 40px;">Key: kjv</p><p class="paragraph_style_4" style="margin-left: 40px;">Title: King James Version</p><p class="paragraph_style_4" style="margin-left: 40px;">Copyright: Public Domain</p><br/><p class="paragraph_style_4" style="margin-left: 40px;">Key: net</p><p class="paragraph_style_4" style="margin-left: 40px;">Title: The NET Bible</p><p class="paragraph_style_4" style="margin-left: 40px;">Copyright: Copyright 1996-2006 by Biblical Studies Press, L.L.C.</p><br/><p class="paragraph_style_4" style="margin-left: 40px;">Key: nasb</p><p class="paragraph_style_4" style="margin-left: 40px;">Title: New American Standard Bible</p><p class="paragraph_style_4" style="margin-left: 40px;">Copyright: New American Standard Bible (NASB) Copyright 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation, La Habra, CA. All rights reserved. Used by Permission.</p><br/><p class="paragraph_style_4" style="margin-left: 40px;">Key: ylt</p><p class="paragraph_style_4" style="margin-left: 40px;">Title: Young's Literal Translation</p><p class="paragraph_style_4" style="margin-left: 40px;">Copyright: Public Domain</p><br/>
+[2013-01-26 07:46:45.459] [INFO] BibleQuote - Looking for passage in esv: John 3:16
+[2013-01-26 07:46:45.460] [INFO] BibleQuote -  Path is: http://www.esvapi.org/v2/rest/passageQuery?key=3b06c58d0d40201b&passage=John%203%3A16&output-format=plain-text&include-passage-references=false&include-first-verse-numbers=false&include-verse-numbers=false&include-footnotes=false&include-copyright=false&include-passage-horizontal-lines=false&include-heading-horizontal-lines=false&include-headings=false&include-subheadings=false&include-selahs=false&line-length=0
+[2013-01-26 07:46:45.826] [INFO] BibleQuote - StatusCode: 
+[2013-01-26 07:46:45.827] [INFO] BibleQuote - Headers: 
+[2013-01-26 07:46:45.827] [INFO] BibleQuote - End received:    "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. (ESV)
+[2013-01-26 07:46:45.827] [INFO] BibleQuote - Processed Passage >"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.<
+[2013-01-26 11:27:41.597] [INFO] BibleQuote - <div class="ind">Key: asv</div><div class="ind">Title: American Standard Version</div><div class="ind">Copyright: Public Domain</div><br/><div class="ind">Key: amp</div><div class="ind">Title: Amplified Bible</div><div class="ind">Copyright: All rights reserved. For Permission To Quote information visit http://www.lockman.org/</div><br/><div class="ind">Key: cev</div><div class="ind">Title: Contemporary English Version</div><div class="ind">Copyright: Copyright 2006, American Bible Society</div><br/><div class="ind">Key: darby</div><div class="ind">Title: 1890 Darby Bible</div><div class="ind">Copyright: Public Domain</div><br/><div class="ind">Key: emphbbl</div><div class="ind">Title: The Emphasized Bible</div><div class="ind">Copyright: Public Domain</div><br/><div class="ind">Key: esv</div><div class="ind">Title: English Standard Version</div><div class="ind">Copyright: Copyright 2001 by Crossway, a publishing ministry of Good News Publishers.</div><br/><div class="ind">Key: gnt</div><div class="ind">Title: Good News Translation</div><div class="ind">Copyright: Copyright 1992 by American Bible Society. Used by Permission.</div><br/><div class="ind">Key: kjv</div><div class="ind">Title: King James Version</div><div class="ind">Copyright: Public Domain</div><br/><div class="ind">Key: net</div><div class="ind">Title: The NET Bible</div><div class="ind">Copyright: Copyright 1996-2006 by Biblical Studies Press, L.L.C.</div><br/><div class="ind">Key: nasb</div><div class="ind">Title: New American Standard Bible</div><div class="ind">Copyright: New American Standard Bible (NASB) Copyright 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation, La Habra, CA. All rights reserved. Used by Permission.</div><br/><div class="ind">Key: ylt</div><div class="ind">Title: Young's Literal Translation</div><div class="ind">Copyright: Public Domain</div><br/>
+[2013-01-26 11:31:21.144] [INFO] BibleQuote - <div class="ind">Key: asv</div><br/><div class="ind">Key: amp</div><br/><div class="ind">Key: cev</div><br/><div class="ind">Key: darby</div><br/><div class="ind">Key: emphbbl</div><br/><div class="ind">Key: esv</div><br/><div class="ind">Key: gnt</div><br/><div class="ind">Key: kjv</div><br/><div class="ind">Key: net</div><br/><div class="ind">Key: nasb</div><br/><div class="ind">Key: ylt</div><br/>
+[2013-01-26 11:33:41.334] [INFO] BibleQuote - <div class="ind">Key: asv</div><br/><div class="ind">Key: amp</div><br/><div class="ind">Key: cev</div><br/><div class="ind">Key: darby</div><br/><div class="ind">Key: emphbbl</div><br/><div class="ind">Key: esv</div><br/><div class="ind">Key: gnt</div><br/><div class="ind">Key: kjv</div><br/><div class="ind">Key: net</div><br/><div class="ind">Key: nasb</div><br/><div class="ind">Key: ylt</div><br/>
+[2013-01-26 11:37:03.272] [INFO] BibleQuote - Key: asv
+Title: American Standard Version
+Copyright: Public Domain
+Description: The ASV has long been regarded by many scholars as the most literal English translation since the King James Version—maybe the most literal translation ever. This has made the translation very popular for careful English Bible study, but not for ease of reading. While the KJV was translated entirely from 'western manuscripts', the ASV 1901 was influenced also by the older 'eastern manuscripts' that form the basis for most of our modern English translations. Because the ASV 1901 is very difficult to find in print, Logos is pleased to be able to preserve and distribute this significant work. This is an excellent choice for comparative English study.
+Key: amp
+Title: Amplified Bible
+Copyright: All rights reserved. For Permission To Quote information visit http://www.lockman.org/
+Description: The Amplified Bible (AMP) is an English translation of the Bible produced jointly by The Zondervan Corporation and The Lockman Foundation. The first edition was published in 1965. It is largely a revision of the American Standard Version of 1901, with reference made to various texts in the original languages. It is designed to 'amplify' the text by using a system of punctuation and other typographical features to bring out all shades of meaning present in the original texts.
+Key: cev
+Title: Contemporary English Version
+Copyright: Copyright 2006, American Bible Society
+Description: The Contemporary English Version or CEV (also known as Bible for Today's Family) is a translation of the Bible into English, published by the American Bible Society.
+Key: darby
+Title: 1890 Darby Bible
+Copyright: Public Domain
+Description: As an ex-Anglican minister and the founder of the Plymouth Brethren, Darby's influence started the Niagara Conferences, which were the beginnings of prophetically-oriented Bible conferences in America. First published in 1890, this translation comes after Darby's understanding of the original languages matured during the writing of his French and German translations of the Bible.
+Key: emphbbl
+Title: The Emphasized Bible
+Copyright: Public Domain
+Description: The Emphasized Bible, by Joseph Bryant Rotherham, is a unique translation which helps English-only Bible readers to understand the linguistic and literary nuances of the Greek and Hebrew texts. This translation aims for a literal rendering of the original languages, and adds markings to the English text to indicate emphases, parallel structures, and the other linguistic features. It also includes accent marks, brackets, indentations, and other markings within the text itself, to help communicate the features in Greek and Hebrew which are lost in translation.
+Key: esv
+Title: English Standard Version
+Copyright: Copyright 2001 by Crossway, a publishing ministry of Good News Publishers.
+Description: The ESV Bible (English Standard Version) is an “essentially literal” translation of the Bible in contemporary English. The ESV Bible emphasizes “word-for-word” accuracy, literary excellence, and depth of meaning.
+Key: gnt
+Title: Good News Translation
+Copyright: Copyright 1992 by American Bible Society. Used by Permission.
+Description: The Good News Bible (GNB), also called the Good News Translation (GNT), is an English language translation of the Bible by the American Bible Society, first published as the New Testament under the name Good News for Modern Man in 1966.
+Key: kjv
+Title: King James Version
+Copyright: Public Domain
+Description: Also known as the 'Authorized Version', The King James Version of the Bible is still the most widely used text in the English language. The Logos KJV includes the Strong's Numbers which allow English readers to identify and search for underlying Greek and Hebrew words in the original text.
+Key: net
+Title: The NET Bible
+Copyright: Copyright 1996-2006 by Biblical Studies Press, L.L.C.
+Description: The NET Bible is a completely new translation of the Bible with 60,932 translators' notes! It was completed by more than 25 scholars – experts in the original biblical languages – who worked directly from the best currently available Hebrew, Aramaic, and Greek texts.
+Key: nasb
+Title: New American Standard Bible
+Copyright: New American Standard Bible (NASB) Copyright 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation, La Habra, CA. All rights reserved. Used by Permission.
+Description: The New American Standard Bible (NASB), also informally called the New American Standard Version (NASV), is an English translation of the Bible. The New Testament was first published in 1963. The complete Bible was published in 1971.
+Key: ylt
+Title: Young's Literal Translation
+Copyright: Public Domain
+Description: Robert Young is best known for his monumental work, Young's Analyte. Young's Literal Translation is a very good work to add to your Bible collection for text comparisons. Since this is a very literal translation, it offers a good contrast and comparison to a dynamic equivalent translatical Concordance To The Biblion like the NIV.
+
+[2013-01-26 11:37:29.063] [INFO] BibleQuote - Key: asv
+Title: American Standard Version
+Copyright: Public Domain
+Description: The ASV has long been regarded by many scholars as the most literal English translation since the King James Version—maybe the most literal translation ever. This has made the translation very popular for careful English Bible study, but not for ease of reading. While the KJV was translated entirely from 'western manuscripts', the ASV 1901 was influenced also by the older 'eastern manuscripts' that form the basis for most of our modern English translations. Because the ASV 1901 is very difficult to find in print, Logos is pleased to be able to preserve and distribute this significant work. This is an excellent choice for comparative English study.
+Key: amp
+Title: Amplified Bible
+Copyright: All rights reserved. For Permission To Quote information visit http://www.lockman.org/
+Description: The Amplified Bible (AMP) is an English translation of the Bible produced jointly by The Zondervan Corporation and The Lockman Foundation. The first edition was published in 1965. It is largely a revision of the American Standard Version of 1901, with reference made to various texts in the original languages. It is designed to 'amplify' the text by using a system of punctuation and other typographical features to bring out all shades of meaning present in the original texts.
+Key: cev
+Title: Contemporary English Version
+Copyright: Copyright 2006, American Bible Society
+Description: The Contemporary English Version or CEV (also known as Bible for Today's Family) is a translation of the Bible into English, published by the American Bible Society.
+Key: darby
+Title: 1890 Darby Bible
+Copyright: Public Domain
+Description: As an ex-Anglican minister and the founder of the Plymouth Brethren, Darby's influence started the Niagara Conferences, which were the beginnings of prophetically-oriented Bible conferences in America. First published in 1890, this translation comes after Darby's understanding of the original languages matured during the writing of his French and German translations of the Bible.
+Key: emphbbl
+Title: The Emphasized Bible
+Copyright: Public Domain
+Description: The Emphasized Bible, by Joseph Bryant Rotherham, is a unique translation which helps English-only Bible readers to understand the linguistic and literary nuances of the Greek and Hebrew texts. This translation aims for a literal rendering of the original languages, and adds markings to the English text to indicate emphases, parallel structures, and the other linguistic features. It also includes accent marks, brackets, indentations, and other markings within the text itself, to help communicate the features in Greek and Hebrew which are lost in translation.
+Key: esv
+Title: English Standard Version
+Copyright: Copyright 2001 by Crossway, a publishing ministry of Good News Publishers.
+Description: The ESV Bible (English Standard Version) is an “essentially literal” translation of the Bible in contemporary English. The ESV Bible emphasizes “word-for-word” accuracy, literary excellence, and depth of meaning.
+Key: gnt
+Title: Good News Translation
+Copyright: Copyright 1992 by American Bible Society. Used by Permission.
+Description: The Good News Bible (GNB), also called the Good News Translation (GNT), is an English language translation of the Bible by the American Bible Society, first published as the New Testament under the name Good News for Modern Man in 1966.
+Key: kjv
+Title: King James Version
+Copyright: Public Domain
+Description: Also known as the 'Authorized Version', The King James Version of the Bible is still the most widely used text in the English language. The Logos KJV includes the Strong's Numbers which allow English readers to identify and search for underlying Greek and Hebrew words in the original text.
+Key: net
+Title: The NET Bible
+Copyright: Copyright 1996-2006 by Biblical Studies Press, L.L.C.
+Description: The NET Bible is a completely new translation of the Bible with 60,932 translators' notes! It was completed by more than 25 scholars – experts in the original biblical languages – who worked directly from the best currently available Hebrew, Aramaic, and Greek texts.
+Key: nasb
+Title: New American Standard Bible
+Copyright: New American Standard Bible (NASB) Copyright 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation, La Habra, CA. All rights reserved. Used by Permission.
+Description: The New American Standard Bible (NASB), also informally called the New American Standard Version (NASV), is an English translation of the Bible. The New Testament was first published in 1963. The complete Bible was published in 1971.
+Key: ylt
+Title: Young's Literal Translation
+Copyright: Public Domain
+Description: Robert Young is best known for his monumental work, Young's Analyte. Young's Literal Translation is a very good work to add to your Bible collection for text comparisons. Since this is a very literal translation, it offers a good contrast and comparison to a dynamic equivalent translatical Concordance To The Biblion like the NIV.
+
+[2013-01-26 11:37:36.844] [INFO] BibleQuote - Key: asv
+Title: American Standard Version
+Copyright: Public Domain
+Description: The ASV has long been regarded by many scholars as the most literal English translation since the King James Version—maybe the most literal translation ever. This has made the translation very popular for careful English Bible study, but not for ease of reading. While the KJV was translated entirely from 'western manuscripts', the ASV 1901 was influenced also by the older 'eastern manuscripts' that form the basis for most of our modern English translations. Because the ASV 1901 is very difficult to find in print, Logos is pleased to be able to preserve and distribute this significant work. This is an excellent choice for comparative English study.
+Key: amp
+Title: Amplified Bible
+Copyright: All rights reserved. For Permission To Quote information visit http://www.lockman.org/
+Description: The Amplified Bible (AMP) is an English translation of the Bible produced jointly by The Zondervan Corporation and The Lockman Foundation. The first edition was published in 1965. It is largely a revision of the American Standard Version of 1901, with reference made to various texts in the original languages. It is designed to 'amplify' the text by using a system of punctuation and other typographical features to bring out all shades of meaning present in the original texts.
+Key: cev
+Title: Contemporary English Version
+Copyright: Copyright 2006, American Bible Society
+Description: The Contemporary English Version or CEV (also known as Bible for Today's Family) is a translation of the Bible into English, published by the American Bible Society.
+Key: darby
+Title: 1890 Darby Bible
+Copyright: Public Domain
+Description: As an ex-Anglican minister and the founder of the Plymouth Brethren, Darby's influence started the Niagara Conferences, which were the beginnings of prophetically-oriented Bible conferences in America. First published in 1890, this translation comes after Darby's understanding of the original languages matured during the writing of his French and German translations of the Bible.
+Key: emphbbl
+Title: The Emphasized Bible
+Copyright: Public Domain
+Description: The Emphasized Bible, by Joseph Bryant Rotherham, is a unique translation which helps English-only Bible readers to understand the linguistic and literary nuances of the Greek and Hebrew texts. This translation aims for a literal rendering of the original languages, and adds markings to the English text to indicate emphases, parallel structures, and the other linguistic features. It also includes accent marks, brackets, indentations, and other markings within the text itself, to help communicate the features in Greek and Hebrew which are lost in translation.
+Key: esv
+Title: English Standard Version
+Copyright: Copyright 2001 by Crossway, a publishing ministry of Good News Publishers.
+Description: The ESV Bible (English Standard Version) is an “essentially literal” translation of the Bible in contemporary English. The ESV Bible emphasizes “word-for-word” accuracy, literary excellence, and depth of meaning.
+Key: gnt
+Title: Good News Translation
+Copyright: Copyright 1992 by American Bible Society. Used by Permission.
+Description: The Good News Bible (GNB), also called the Good News Translation (GNT), is an English language translation of the Bible by the American Bible Society, first published as the New Testament under the name Good News for Modern Man in 1966.
+Key: kjv
+Title: King James Version
+Copyright: Public Domain
+Description: Also known as the 'Authorized Version', The King James Version of the Bible is still the most widely used text in the English language. The Logos KJV includes the Strong's Numbers which allow English readers to identify and search for underlying Greek and Hebrew words in the original text.
+Key: net
+Title: The NET Bible
+Copyright: Copyright 1996-2006 by Biblical Studies Press, L.L.C.
+Description: The NET Bible is a completely new translation of the Bible with 60,932 translators' notes! It was completed by more than 25 scholars – experts in the original biblical languages – who worked directly from the best currently available Hebrew, Aramaic, and Greek texts.
+Key: nasb
+Title: New American Standard Bible
+Copyright: New American Standard Bible (NASB) Copyright 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation, La Habra, CA. All rights reserved. Used by Permission.
+Description: The New American Standard Bible (NASB), also informally called the New American Standard Version (NASV), is an English translation of the Bible. The New Testament was first published in 1963. The complete Bible was published in 1971.
+Key: ylt
+Title: Young's Literal Translation
+Copyright: Public Domain
+Description: Robert Young is best known for his monumental work, Young's Analyte. Young's Literal Translation is a very good work to add to your Bible collection for text comparisons. Since this is a very literal translation, it offers a good contrast and comparison to a dynamic equivalent translatical Concordance To The Biblion like the NIV.
+
+[2013-01-28 15:18:22.323] [INFO] BibleQuote - Looking for passage in net: John 3:16
+[2013-01-28 15:18:22.325] [INFO] BibleQuote -  Path is: http://labs.bible.org/api/?passage=John%203%3A16&formatting=plain&type=text
+[2013-01-28 15:18:22.912] [INFO] BibleQuote - StatusCode: 
+[2013-01-28 15:18:22.912] [INFO] BibleQuote - Headers: 
+[2013-01-28 15:18:22.912] [INFO] BibleQuote - End received:  <b>3:16</b> For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
+[2013-01-28 15:18:22.912] [INFO] BibleQuote - Processed Passage ><b>3:16</b> For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.<
+[2013-01-28 21:04:04.476] [INFO] BibleQuote - Looking for passage in net: John 3:16
+[2013-01-28 21:04:04.478] [INFO] BibleQuote -  Path is: http://labs.bible.org/api/?passage=John%203%3A16&formatting=plain&type=text
+[2013-01-28 21:04:05.095] [INFO] BibleQuote - StatusCode: 
+[2013-01-28 21:04:05.095] [INFO] BibleQuote - Headers: 
+[2013-01-28 21:04:05.095] [INFO] BibleQuote - End received:  <b>3:16</b> For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
+[2013-01-28 21:04:05.096] [INFO] BibleQuote - Processed Passage >For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.<

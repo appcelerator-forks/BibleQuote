@@ -1,0 +1,24 @@
+{
+  "name": "BibleQuote",
+  "version": "0.1.0",
+  "description": "The Bible API Aggregate Web Service brings together a number of Bible APIs on the web to offer a comprehensive set of Bibles to quote from. This service offers two REST-based APIs: getVersions and getQuote.",
+  "framework": "mvc",
+  "main": "app.js",
+  "logfile" : "BibleQuote.log",
+  "keywords": [
+  ],
+  "author": "Carl Orthlieb",
+  "maintainers": [
+  ],
+  "contributors": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "preferGlobal": false,
+  "dependencies": {
+  },
+  "license":"",
+  "private": true
+}
