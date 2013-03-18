@@ -7,11 +7,21 @@ var bibles = require('../lib/bibles');
 var http = require('http');
 var https = require('https');
 
+function getVersion(req, res) {
+    if (!bibles[req.query.version]) {
+        res.send(400, "Bible version not valid (" + req.query.version + ")");
+        return;
+    }
+
+    res.send(bibles[req.query.version]);
+}
+
 function getVersions(req, res) {
     var versions = {};
     
     for (var i in bibles) {
-        versions[i] = { id: i, title: bibles[i].title, copyright: bibles[i].copyright, description: bibles[i].description };
+        if (bibles.hasOwnProperty(i))
+            versions[i] = { id: i, title: bibles[i].title, copyright: bibles[i].copyright, description: bibles[i].description };
     }
     res.send(versions);
 }

@@ -3,6 +3,10 @@
   [
     { "path": "/", "callback": "application#index" },
     { "path": "/getQuote", "callback": "application#getQuote" },
+    { "path": "/quote.json", "callback": "application#getQuote" },
+    { "path": "/getVersion", "callback": "application#getVersion" },
+    { "path": "/version.json", "callback": "application#getVersion" },
+    { "path": "/versions.json", "callback": "application#getVersions" },
     { "path": "/getVersions", "callback": "application#getVersions" }
   ],
   "filters":
